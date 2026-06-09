@@ -1,0 +1,68 @@
+img {
+    width: 300px;
+    height: 300px;
+    float: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+body {
+background-color: #fff8e1;
+}
+h1 {
+    color: #4e3212;
+    text-align: center;
+}
+h2 {
+    color: #4e3212;
+    text-align: justify;
+    font-size: 25px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.naczynia-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: 20px;
+}
+
+.naczynia-card {
+    padding: 15px;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: #4e3212;
+    font-size: 30px;
+}
+nav ul{
+    background-color: #f7dfb3;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav li {
+    list-style: none;
+    margin-right: 30px;
+}
+p {
+    color: #4e3212;
+    text-align: justify;
+    font-size: 25px;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+strong {
+    color: #4e3212;
+    font-size: 25px;
+}
+footer {
+    background-color: #f7dfb3;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}

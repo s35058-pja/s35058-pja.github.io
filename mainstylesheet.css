@@ -1,0 +1,69 @@
+nav ul{
+    background-color: #f7dfb3;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav li {
+    list-style: none;
+    margin-right: 30px;
+}
+body {
+background-color: #fff8e1;
+}
+
+p {
+    color: #4e3212;
+    text-align: justify;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+nav a {
+    text-decoration: none;
+    color: #4e3212;
+    font-size: 30px;
+}
+header {
+    background-image: url('pexels-teddy-6415231.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+h1 {
+    color: #4e3212;;
+    text-align: center;
+    margin-top: 220px;
+    font-size: 100px;
+    background-color: rgba(255, 240, 211, 0.5);
+}
+h2 {
+    color: #4e3212;
+    text-align: justify;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+h3 {
+    color: #4e3212;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
+h4 {
+    color: #5c5c5c;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+footer {
+    background-color: #f7dfb3;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
