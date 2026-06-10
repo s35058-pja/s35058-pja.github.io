@@ -11,6 +11,18 @@ nav li {
     list-style: none;
     margin-right: 30px;
 }
+.herbatka {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+.external {
+    text-decoration: none;
+    color: #4e3212;
+    margin-left: 650px;
+    font-size: 30px;
+}
 body {
 background-color: #fff8e1;
 }
